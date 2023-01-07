@@ -1,2 +1,2 @@
 # PruebaQuasar
-Archivos e instrucciones para ejecutar la prueba de 
+Archivos e instrucciones para ejecutar la prueba técnica
